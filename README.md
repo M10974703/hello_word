@@ -1,3 +1,4 @@
 # hello_word
-* hello word
-* 1321212121212121212
+hello word
+哈囉愚蠢的人類
+
